@@ -1,0 +1,25 @@
+.header {
+    margin-top: 60px;
+}
+
+.headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: brown;
+}
+
+.headerTitleSmall {
+    position: relative;
+    font-size: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.headerImg {
+    width: 100%;
+    height: 450px;
+    /* margin-top: 80px; */
+    object-fit: cover;
+}
